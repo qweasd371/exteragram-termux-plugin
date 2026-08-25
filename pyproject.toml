@@ -1,0 +1,7 @@
+[project]
+name = "exteragram-termux-plugin"
+version = "0.1.0"
+description = "Плагин для exteragram чтобы использавать termux в нём"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
